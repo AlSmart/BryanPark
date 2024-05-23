@@ -1,7 +1,7 @@
 <header>
-# h1
+
   <h1>Entete du fichier</h1>
-# h3
+
   <h3>sous titre h3</h3>
 <!--
   <<< Author notes: Course header >>>
