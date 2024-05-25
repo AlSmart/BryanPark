@@ -1,8 +1,12 @@
 <header>
 
-  <h1>Entete du fichier</h1>
+#  h1 header
+## h2 header
+### h3 header
+#### h4 header
+##### h5 header
+###### h6 header
 
-  <h3>sous titre h3</h3>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
